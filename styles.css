@@ -1,0 +1,18 @@
+.card-img-top {
+    width: 220px;
+    height: 220px;
+    display: flex;
+    /* object-fit: cover; */
+}
+
+.container {
+    text-align: center;
+}
+
+.py-5 {
+    text-align: center
+}
+
+.card {
+    margin-top: 1em;
+}
